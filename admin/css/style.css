@@ -1095,7 +1095,7 @@ h6.h1 {
   text-align: center;
   background: #fff;
 }
-.header .top-navbar .navbar-header .navbar-brand {
+.header .top-navbar .navbar-header .f {
   margin-right: 0;
   padding-bottom: 0;
   padding-top: 0;
@@ -1204,7 +1204,6 @@ h6.h1 {
   top: -1px;
   -webkit-box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
-  display: none;
   left: 0;
 }
 .search-box .app-search input {

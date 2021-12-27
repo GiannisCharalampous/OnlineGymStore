@@ -187,7 +187,7 @@ session_start();
 <!-- start: FOOTER -->
 <footer class="footer">
     <div class="container">
-        <!-- top footer statrs -->
+        <!-- top footer starts -->
         <div class="row top-footer">
             <div class="col-xs-12 col-sm-3 footer-logo-block color-gray">
                 <a href="#"> <img class="img-rounded" src="images/navbarLogo.jpg" alt="Footer logo"> </a> <span>GET Fit! </span>
