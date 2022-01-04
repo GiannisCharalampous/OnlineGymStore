@@ -1,20 +1,3 @@
-/*!
- * Foodpicky HTML template V 1.0
- * A simple and easy to use HTML template designed for online food ordering.
- * http://codenpixel.com
- * Author : codenpixel (http://codenpixel.com/)
- */
-
-/*
-*  Table of content
-*************************************
-*   Loading animation seetings
-*   Adding images via data atr
-*   Range slider.Pricing slider
-*   Headroom (hide - show menu on scrool)
-*   Isotope
-*
-**/
 
 $(document).ready(function() {
     "use strict";
